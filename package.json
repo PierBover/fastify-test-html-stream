@@ -1,0 +1,27 @@
+{
+  "name": "fastify-test-html-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierBover/fastify-test-html-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierBover/fastify-test-html-stream/issues"
+  },
+  "homepage": "https://github.com/PierBover/fastify-test-html-stream#readme",
+  "dependencies": {
+    "fastify": "^4.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
